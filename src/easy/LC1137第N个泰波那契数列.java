@@ -1,6 +1,6 @@
 package easy;
 
-public class LC1137第N个斐波那契数列 {
+public class LC1137第N个泰波那契数列 {
    /* class Solution {
         public int tribonacci(int n) {
             if(n==0)return 0;
