@@ -10,11 +10,11 @@ Java 后端学习过程中的 LeetCode 刷题仓库。
 
 ## 当前进度
 
-已完成：64 题
+已完成：66 题
 
-easy:40 题
+easy:41 题
 
-medium:22 题
+medium:23 题
 
 hard:2 题
 
