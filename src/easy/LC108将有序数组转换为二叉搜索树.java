@@ -24,7 +24,7 @@ public class LC108将有序数组转换为二叉搜索树 {
             if(left>right){
                 return null;
             }
-            int mid=(left+right)/2;
+            int mid=left+(right-left)/2;
             TreeNode root=new TreeNode(nums[mid]);
             root.left=helper(nums,left,mid-1);
             root.right=helper(nums,mid+1,right);
